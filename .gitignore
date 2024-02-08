@@ -1,0 +1,4 @@
+# ignoring docs
+config
+setting.json
+.log
